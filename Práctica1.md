@@ -1,7 +1,7 @@
 ##Práctica 1.
 
-
-
+#Prerrequisito:
+Creci{on de repoitorio en github (sin creación de readme).
 ```
 jaider@TTG MINGW64 /d/ESCUELA_GUERRA/DOCKER_REPO
 $ echo "# Docker2023" >> README.md
