@@ -3,7 +3,6 @@
 
 # Prerrequisito:
 
-
 ![](https://github.com/jaiderospina/Docker2023/blob/master/images/create_repository.png)
 
 
