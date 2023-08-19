@@ -1,6 +1,12 @@
 ## Práctica 1.
 
+
 # Prerrequisito:
+
+
+![](https://github.com/jaiderospina/Docker2023/blob/master/images/create_repository.png)
+
+
 Creción de repoitorio en github (sin creación de readme).
 ```
 jaider@TTG MINGW64 /d/ESCUELA_GUERRA/DOCKER_REPO
